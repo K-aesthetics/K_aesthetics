@@ -1,0 +1,13 @@
+#header {
+   background-color: black;
+   color: white;
+   text-align: center;
+   padding: 7px;
+ }
+ body {background-color:black;}
+p {color:black;}
+.img-klogo {
+   width:300px;  
+}
+#body {
+   color: white;
